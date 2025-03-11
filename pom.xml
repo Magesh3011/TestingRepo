@@ -6,5 +6,6 @@
   <packaging>pom</packaging>
   <modules>
     <module>denmoo</module>
+    <module>hlo</module>
   </modules>
 </project>
